@@ -91,7 +91,7 @@ p {
 }
 
 .content {
-    background-color: #ede2d8;
+    background-color: #FFF3E8;
     align-items: center;
     /*
     padding: 20px;
@@ -111,8 +111,10 @@ p {
     /* border: 1px solid gold; */
     justify-content: center;
     flex-wrap: wrap;
+    height: 800px
 
 }
+
 
 
 .card {
@@ -120,6 +122,16 @@ p {
     height: 200px;
     object-fit: cover;
     margin: 5px 20px 0px 20px;
+}
+
+h1 {
+    color: #cdc3b9;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: #decab7;
 }
 
 .quote {
